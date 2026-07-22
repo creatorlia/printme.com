@@ -1,3 +1,238 @@
+# 🎨 YouTube Channel Customization – AiCrafts
+
+> A complete GitHub README-style template for documenting your YouTube channel branding and customization.
+
+---
+
+# 📺 AiCrafts
+
+*Channel Name:* AiCrafts  
+*Handle:* `@aicrafts1K`  
+*Channel URL:* https://www.youtube.com/@aicrafts1K
+
+---
+
+# 🖼 Banner
+
+| Requirement | Value |
+|-------------|-------|
+| Minimum Size | *2048 × 1152 px* |
+| Recommended | 2560 × 1440 px |
+| Maximum File Size | 6 MB |
+| Format | PNG / JPG |
+
+### Banner Idea
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          AI CRAFTS
+
+🤖 AI • Crypto • MintMe • Roblox
+💎 Tutorials • Tokens • Shorts
+
+New Videos Every Day
+Subscribe ❤
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Suggested colors
+
+- Black
+- Purple
+- Cyan
+- Neon Blue
+- Gold
+
+---
+
+# 👤 Profile Picture
+
+| Requirement | Value |
+|-------------|-------|
+| Minimum Size | 98 × 98 px |
+| Recommended | 800 × 800 px |
+| Maximum Size | 4 MB |
+| Format | PNG / GIF |
+
+Theme
+
+- AI Robot
+- Neon Circle
+- Purple Glow
+- Letter A
+- Digital Circuit Background
+
+---
+
+# 🏷 Channel Information
+
+## Name
+
+```
+AiCrafts
+```
+
+---
+
+## Handle
+
+```
+@aicrafts1K
+```
+
+---
+
+## Channel URL
+
+```
+https://www.youtube.com/channel/UCm7K-B9wT6agLkDP2D8ic-g
+```
+
+---
+
+# 📝 Description
+
+Welcome to **AiCrafts**!
+
+Discover AI tutorials, MintMe token guides, cryptocurrency projects, Roblox content, creative tools, Shorts, and digital experiments.
+
+🚀 What you'll find:
+
+- AI Tutorials
+- MintMe Token Creation
+- Crypto Education
+- Roblox Content
+- Automation
+- YouTube Shorts
+- Creative Projects
+- Technology
+
+New videos are uploaded regularly.
+
+Thank you for watching and supporting the channel!
+
+⭐ Subscribe and join the AiCrafts community.
+
+---
+
+# 🔗 Links
+
+| Title | URL |
+|-------|-----|
+| Ai Crafts | https://www.youtube.com/channel/UCm7K-B9wT6agLkDP2D8ic-g |
+| Thanks For Watching | https://www.youtube.com/channel/UCRGKkkRNoJTKMzZ25FpaQTA |
+| Social Blade | https://socialblade.com/youtube/channel/UCm7K-B9wT6agLkDP2D8ic-g |
+| Blogger | https://aifreepage.blogspot.com/ |
+| GitHub Creator | https://github.com/creatorlia |
+
+---
+
+# 📅 Weekly Content
+
+## Monday
+
+https://www.youtube.com/playlist?list=PLNxB8JUnaC3o
+
+---
+
+## Tuesday
+
+https://www.youtube.com/playlist?list=PLM9rpSFozFP0
+
+---
+
+## Wednesday
+
+https://www.youtube.com/watch?v=hA2uyVhzqBY
+
+---
+
+## Thursday
+
+https://www.youtube.com/shorts/SVI9t2oT8XQ
+
+---
+
+## Friday
+
+https://www.youtube.com/watch?v=fBROsuYOUvA
+
+---
+
+## Saturday
+
+Collaboration Playlist
+
+https://www.youtube.com/watch_videos?video_ids=KVAI4r0WlQk%2Ck_C0Dn8HAt0%2Cyk7BnjSoEEo%2COTbnqGxAKFM%2CPFaKDAVcvHM%2ClRyxTEQvwSA%2Cs4WH41jlvVU%2C8lE53ibjbuc%2CV4dOIB6mNfQ%2CTIAN9BHzyXE%2CXP_PtXHJBqs%2C_F9_Z_uDIZg%2CT3kkYb1TUfw%2C9xdvpMgyLtM%2CIORu1cmorlo%2C5qfsNR-5DlE%2C4kz-xLodAb4%2C0ls-uJI6UqM%2CDGQ9jaE4DjA%2C1M--jb9Enqs%2ClEqiFG4A5KE%2CHjHZ1ficIDM%2CIPUnFvgHYJo%2CgdEGqgKanGo%2CY-O5HhboS0A%2CAl-rcOFjLi0%2CtPy6yElWFWI%2CsViHt02lEHo%2Cp-YkgqiXMJc%2CjX-AjSW3w9g%2CiZvSo9VwXSg%2CBUB6jka7Vrg%2C1rWeWgc_IyM%2CiwjQQ5P5PF8%2CpNqPbZvGPBc%2CTe6lF8IVDY8%2CxoWRKtaMOLg&type=0&title=Collaborations
+
+---
+
+## Sunday
+
+https://www.youtube.com/@aicrafts1K/playlists?view=1&sort=dd&shelf_id=8
+
+---
+
+# 📧 Business Contact
+
+```
+Email:
+your-email@example.com
+```
+
+---
+
+# 💧 Video Watermark
+
+Recommended Settings
+
+- ✔ Entire Video
+- PNG
+- Transparent Background
+- 150×150 px
+- AI Logo
+
+---
+
+# 🎯 Channel Focus
+
+- 🤖 Artificial Intelligence
+- 💎 MintMe Tokens
+- 🪙 Cryptocurrency
+- 🎮 Roblox
+- 🎬 Shorts
+- 📚 Tutorials
+- 🛠 Open Source Projects
+- 🚀 Tech Experiments
+
+---
+
+# 📈 Growth Goals
+
+- 1K Subscribers
+- 10K Subscribers
+- 100K Subscribers
+- 1M Views
+- Daily Uploads
+- Weekly Playlists
+
+---
+
+# ⭐ Follow AiCrafts
+
+- YouTube
+- GitHub
+- Blogger
+- Social Blade
+
+---
+
+Made with ❤ by *AiCrafts*
+```
+
+
+
+
 Channel customization
 
 View channel
